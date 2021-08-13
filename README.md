@@ -1,1 +1,1 @@
-Just run `yarn & yarn start`
+Just run `yarn && yarn start`
